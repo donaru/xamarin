@@ -1,1 +1,12 @@
-﻿<Properties StartupItem="Droid\ELTAX.Droid.csproj" />
+﻿<Properties StartupItem="Droid\ELTAX.Droid.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.emulator-5554" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Droid\MainActivity.cs">
+    <Files>
+      <File FileName="Droid\MainActivity.cs" Line="23" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
