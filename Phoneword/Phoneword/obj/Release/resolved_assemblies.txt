@@ -1,0 +1,5 @@
+C:\Xamarin\Phoneword\Phoneword\obj\Release\android\assets\Phoneword.dll
+C:\Xamarin\Phoneword\Phoneword\obj\Release\android\assets\Mono.Android.dll
+C:\Xamarin\Phoneword\Phoneword\obj\Release\android\assets\mscorlib.dll
+C:\Xamarin\Phoneword\Phoneword\obj\Release\android\assets\System.Core.dll
+C:\Xamarin\Phoneword\Phoneword\obj\Release\android\assets\System.dll

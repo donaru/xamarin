@@ -1,0 +1,6 @@
+C:\Xamarin\Phoneword\Phoneword\obj\Debug\assemblies\Phoneword.dll
+C:\Xamarin\Phoneword\Phoneword\obj\Debug\assemblies\Mono.Android.dll
+C:\Xamarin\Phoneword\Phoneword\obj\Debug\assemblies\mscorlib.dll
+C:\Xamarin\Phoneword\Phoneword\obj\Debug\assemblies\System.Core.dll
+C:\Xamarin\Phoneword\Phoneword\obj\Debug\assemblies\System.dll
+C:\Xamarin\Phoneword\Phoneword\obj\Debug\assemblies\System.Xml.dll

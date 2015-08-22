@@ -12,14 +12,15 @@
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="1-855-XAMARIN:" />
+        android:text="1-855-XAMARIN:"
+        android:id="@+id/PhoneNumberText" />
     <Button
         android:text="Translate"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/TranslateButton" />
     <Button
-        android:text="Button"
+        android:text="Call"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/CallButton" />

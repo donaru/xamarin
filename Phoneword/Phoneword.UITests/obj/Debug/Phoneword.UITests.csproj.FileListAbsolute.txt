@@ -1,0 +1,9 @@
+C:\Xamarin\Phoneword\Phoneword.UITests\bin\Debug\Phoneword.UITests.dll
+C:\Xamarin\Phoneword\Phoneword.UITests\bin\Debug\Phoneword.UITests.pdb
+C:\Xamarin\Phoneword\Phoneword.UITests\bin\Debug\nunit.framework.dll
+C:\Xamarin\Phoneword\Phoneword.UITests\bin\Debug\Xamarin.UITest.dll
+C:\Xamarin\Phoneword\Phoneword.UITests\bin\Debug\nunit.framework.xml
+C:\Xamarin\Phoneword\Phoneword.UITests\bin\Debug\Xamarin.UITest.xml
+C:\Xamarin\Phoneword\Phoneword.UITests\obj\Debug\Phoneword.UITests.csprojResolveAssemblyReference.cache
+C:\Xamarin\Phoneword\Phoneword.UITests\obj\Debug\Phoneword.UITests.dll
+C:\Xamarin\Phoneword\Phoneword.UITests\obj\Debug\Phoneword.UITests.pdb

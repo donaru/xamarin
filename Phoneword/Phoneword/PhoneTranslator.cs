@@ -1,12 +1,12 @@
-﻿using System;
+﻿using System.Text;
+using System;
 
-namespace Phoneword
+namespace Core
 {
-	public class PhoneTranslator
+	public static class PhonewordTranslator
 	{
-		public PhoneTranslator ()
+		public static string ToNumber(string raw)
 		{
-
 			if (string.IsNullOrWhiteSpace(raw))
 				return "";
 			else
@@ -49,8 +49,6 @@ namespace Phoneword
 			else if ("WXYZ".Contains(c))
 				return 9;
 			return null;
-		
 		}
 	}
 }
-

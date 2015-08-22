@@ -1,5 +1,5 @@
 ﻿<Properties StartupItem="Droid\ELTAX.Droid.csproj">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.emulator-5554" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Xamarin_Android_API_15" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Droid\MainActivity.cs">
     <Files>
       <File FileName="Droid\MainActivity.cs" Line="23" Column="4" />
